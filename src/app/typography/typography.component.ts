@@ -35,8 +35,6 @@ export class TypographyComponent {
 
     this.dataService.GetDataFileExsist().subscribe(result => {
 
-
-
       for (var i = 0; i <= 2; i++) {
 
         if (result[i] == "Analysis File 2") {
