@@ -17,13 +17,7 @@ HC_no_data(Highcharts);
 
 export class DashboardComponent {
 
-  // chartOptions = null;
-  //Highcharts: typeof Highcharts = Highcharts;
-  //Highcharts = Highcharts;
-  // chartOptions=null;
-
-
-
+  
   Highcharts: typeof Highcharts = Highcharts;
   xAxis_arry = [];
   xAxis_arry2 = [];
@@ -84,7 +78,6 @@ export class DashboardComponent {
 
 
   Highcharts1: typeof Highcharts = Highcharts;
-  //chartOptions1 = null;
   chartOptions1 = {
     chart: {
       type: "spline",

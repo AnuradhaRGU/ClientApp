@@ -54,11 +54,6 @@ export class TypographyComponent {
           this.fileoneAnalysisBool=true;
         }
 
-        //   // object = result[i]
-        //   // if (typeof (object) != "undefined") {
-        //   //   xAxis_arry.push(object.Units);
-        //   //   xAxis_arry2.push(object.MW_Prediction);
-        //   //   yAxis_array.push(new Date(object.Date))
       }
 
 
