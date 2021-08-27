@@ -56,11 +56,6 @@ export class TypographyComponent {
 
       }
 
-
-
-
-
-
     });
   }
 
